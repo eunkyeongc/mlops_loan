@@ -1,3 +1,5 @@
+# 설치 : uv sync 
+
 [project]
 name = "mlops-loan"
 version = "0.1.0"
